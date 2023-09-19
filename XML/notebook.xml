@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Link to XSLT-->
+<?xml-stylesheet type="text/xsl" href="test.xsl"?>
+
+<notebook>
+    <note>
+        <from>Rick</from>
+        <to>Morty</to>
+        <heading>You Suck Morty</heading>
+        <message>Mortyyyyy! You're a piece of *burp* garbage, Morty!</message>
+    </note>
+
+    <note>
+        <from>Rick</from>
+        <to>Morty</to>
+        <heading>Boo, You Suck Morty</heading>
+        <message>Mortyyyyy! You're a piece of *burp* garbage, Morty!</message>
+    </note>
+
+    <note>
+        <from>Rick</from>
+        <to>Morty</to>
+        <heading>You Suck Morty</heading>
+        <message>Mortyyyyy! You're a piece of *burp* garbage, Morty!</message>
+    </note>
+
+    <note>
+        <from>Rick</from>
+        <to>Morty</to>
+        <heading>You Suck Morty</heading>
+        <message>Mortyyyyy! You're a piece of *burp* garbage, Morty!</message>
+    </note>
+</notebook>
